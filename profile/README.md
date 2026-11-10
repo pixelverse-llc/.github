@@ -6,3 +6,5 @@ We also have a number of popular free tools in the barcoding space:
 
 - [Barcode.new](https://barcode.new): *A barcode generator that doesn't suck*. Barcode.new generates all types of barcodes directly in the browser, with high quality vector output (SVG). No signup, no ads and no server round trips.
 - [GTIN & UPC lookup tool](https://strich.io/tools/barcode-lookup/): a free tool to look up UPC and EAN codes, or GTINs more generally
+
+👋 If you're interested in our products, would like to inquire about engineering services or just say hello, drop us a line: [hello@pixelverse.ch](mailto:hello@pixelverse.ch)
